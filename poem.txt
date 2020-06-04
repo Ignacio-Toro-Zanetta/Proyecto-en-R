@@ -4,3 +4,7 @@ Los colores son
 orange
 black
 yellow
+blue
+red
+
+World of Warcraft
