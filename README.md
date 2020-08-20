@@ -4,7 +4,7 @@
 
 Proyecto orientado a la captación de clientes específicos para campaña de publicidad.
 
-### d
+## Implementación
 
 What things you need to install the software and how to install them
 
